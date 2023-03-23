@@ -37,3 +37,7 @@ Available options
 --port <PORT>       Listen on PORT (default is 3000)
 --host <HOST>       Host intefrace to listen to (default is 127.0.0.1)
 ```
+
+## About
+
+The Adversary Emulation Planner Web Frontend was developed in the SOCCRATES innovation project (https://soccrates.eu). SOCCRATES has received funding from the European Union’s Horizon 2020 Research and Innovation program under Grant Agreement No. 833481.
